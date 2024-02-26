@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0zXlraypQERefM8Eah2ZejgrtA0e6g1I7fMTwBlOBlM=",
+  "Source": "TutoStore.Api",
+  "BasePath": "_content/TutoStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,47 @@
+1- Class inherits from Controller (Microsoft.AspNetCore.MVC)
+
+2- exists in the Controllers folder
+
+3- to Create new Controllers
+
+     Right click on Controllers folder
+
+    Add
+    Controller
+    Empty Controller MVC
+4- Controller name should end with Controller word 
+
+   (Ex: HomeController , EmpController)
+
+5- contains a group of action method ( Client can access it from URL )
+
+     should be public
+     should be none static
+     should not overloaded
+6- To Call Action Method
+
+   localhost:0000/Controller/action     ( action with no parameters)
+
+    localhost:0000/Controller/action/id     ( action id parameter)
+
+    localhost:0000/Controller/action?v1=d1&v2=d2&v3=d3....   (action with more than one parameter)
+
+
+_____________________________
+
+In ASP.NET Core MVC, Views are .cshtml files that use the C# programming language in Razor markup. 
+
+Create New View
+Controller  -- Create a new action Method that returns IActionResult
+Right-click on action method -- Add View -- Razor View-Empty 
+the HTML file name should be the same name of the action method name
+
+
+____________________________
+
+Add C# code inside HTML
+1- inline Code
+2- multiline code
+3- if statement
+4- for loop
+5- while loop

@@ -1,0 +1,75 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+Date: @DateTime.Now.ToString()
+
+@{
+    int a = 10;
+    int b = 5;
+    int s = a + b;
+    <h1>sum = @s</h1>
+}
+
+@if ( 5 > 9) 
+{
+    <h1>yes 5</h1>
+}
+else
+{
+    <h1>no 5</h1>
+}
+
+<form method="post">
+    <table>
+        <tr>
+            <td>Name</td>
+            <td><input type="text" name="tname" value=""/></td>
+        </tr>
+
+        <tr>
+            <td>Gendre</td>
+            <td>
+                
+                <input type="radio" name="gendre" value="Male" /> Male
+                <input type="radio" name="gendre" value="Female" /> Female
+                
+            </td>
+        </tr>
+
+        <tr>
+            <td>Age</td>
+            <td>
+                
+                <select name="age">
+
+                    @for(int i =1; i<=50; i++)
+                    {
+                       <option value="@i"> @i</option>
+                   
+                    }
+                   
+                </select>
+                
+            </td>
+        </tr>
+
+        <tr>
+            <td>Status</td>
+            <td><input type="checkbox" name="status" value="student" /></td>
+        </tr>
+
+        <tr>
+            <td>Note</td>
+            <td>
+                <textarea name="note"> </textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>Note</td>
+            <td><input type="submit" name="b1" value="submit" /></td>
+        </tr>
+    </table>
+</form>
