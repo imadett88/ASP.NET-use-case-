@@ -109,6 +109,39 @@ namespace AppAspMVC.Controllers
         }
 
 
+        [HttpGet]
+        public IActionResult Login()
+        {
+            var data = Request.Cookies["userInof"];
+            if (data == null)
+                return RedirectToAction("MyPage");
+            else
+                return View();
+        }
+
+        [HttpPost]
+        public IActionResult Login(string user,string pass, string rem)
+        {
+            if(user =="asp" && pass == "asp")
+            {
+                if (rem != null)
+                {
+                    CookieOptions obj = new CookieOptions();
+                    obj.Expires = DateTime.Now.AddDays(7);
+                    Response.Cookies.Append("userInfo", user, obj);
+                }
+                return RedirectToAction("MyPage");
+            }
+            return View();
+        }
+
+
+        [HttpGet]
+        public IActionResult MyPage()
+        {
+            return View();
+        }
+
 
 
     }

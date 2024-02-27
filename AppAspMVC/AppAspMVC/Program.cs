@@ -1,12 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
 builder.Services.AddDistributedMemoryCache();
-
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+{
+    options.UseSqlServer("Data Source=DESKTOP-RQPJ78N\\SQLEXPRESS;Initial Catalog=DbTes1;Integrated Security=True;TrustServerCertificate=True;Encrypt=False;Trusted_Connection=True") ;
+});
 var app = builder.Build();
-
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

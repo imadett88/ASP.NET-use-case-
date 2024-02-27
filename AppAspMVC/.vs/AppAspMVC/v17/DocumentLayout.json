@@ -1,54 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\AppAsp\\AppAspMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\views\\emp\\form7.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\views\\emp\\form7.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\desktop\\appasp\\appaspmvc\\appaspmvc\\controllers\\webuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\controllers\\webuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\views\\emp\\form6.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\views\\emp\\form6.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\views\\emp\\form4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\views\\emp\\form4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\views\\emp\\form5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\views\\emp\\form5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\views\\emp\\form2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\views\\emp\\form2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\views\\emp\\form3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\views\\emp\\form3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\views\\emp\\form1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\views\\emp\\form1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\source\\repos\\appaspmvc\\appaspmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|c:\\users\\dell\\desktop\\appasp\\appaspmvc\\appaspmvc\\views\\webusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB4197F6-44CA-45E7-BB4D-1C1F591D71AC}|AppAspMVC\\AppAspMVC.csproj|solutionrelative:appaspmvc\\views\\webusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,8 +17,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 480,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 374,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,164 +26,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form7.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form7.cshtml",
-              "RelativeDocumentMoniker": "AppAspMVC\\Views\\Emp\\Form7.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form7.cshtml",
-              "RelativeToolTip": "AppAspMVC\\Views\\Emp\\Form7.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T21:00:57.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form6.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form6.cshtml",
-              "RelativeDocumentMoniker": "AppAspMVC\\Views\\Emp\\Form6.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form6.cshtml",
-              "RelativeToolTip": "AppAspMVC\\Views\\Emp\\Form6.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAARAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\AppAsp\\AppAspMVC\\AppAspMVC\\Views\\WebUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppAspMVC\\Views\\WebUsers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\AppAsp\\AppAspMVC\\AppAspMVC\\Views\\WebUsers\\Index.cshtml",
+              "RelativeToolTip": "AppAspMVC\\Views\\WebUsers\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T20:58:06.301Z",
+              "WhenOpened": "2024-02-27T17:43:29.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form4.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form4.cshtml",
-              "RelativeDocumentMoniker": "AppAspMVC\\Views\\Emp\\Form4.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form4.cshtml",
-              "RelativeToolTip": "AppAspMVC\\Views\\Emp\\Form4.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T19:16:39.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Program.cs",
-              "RelativeDocumentMoniker": "AppAspMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Program.cs",
-              "RelativeToolTip": "AppAspMVC\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvxEAAAAaAAAA",
+              "DocumentIndex": 0,
+              "Title": "WebUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\AppAsp\\AppAspMVC\\AppAspMVC\\Controllers\\WebUsersController.cs",
+              "RelativeDocumentMoniker": "AppAspMVC\\Controllers\\WebUsersController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\AppAsp\\AppAspMVC\\AppAspMVC\\Controllers\\WebUsersController.cs",
+              "RelativeToolTip": "AppAspMVC\\Controllers\\WebUsersController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAiwJsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T20:41:19.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmpController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Controllers\\EmpController.cs",
-              "RelativeDocumentMoniker": "AppAspMVC\\Controllers\\EmpController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Controllers\\EmpController.cs",
-              "RelativeToolTip": "AppAspMVC\\Controllers\\EmpController.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAA4wGMAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T16:04:06.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form5.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form5.cshtml",
-              "RelativeDocumentMoniker": "AppAspMVC\\Views\\Emp\\Form5.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form5.cshtml",
-              "RelativeToolTip": "AppAspMVC\\Views\\Emp\\Form5.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T19:22:59.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form3.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form3.cshtml",
-              "RelativeDocumentMoniker": "AppAspMVC\\Views\\Emp\\Form3.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form3.cshtml",
-              "RelativeToolTip": "AppAspMVC\\Views\\Emp\\Form3.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T16:54:10.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form2.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form2.cshtml",
-              "RelativeDocumentMoniker": "AppAspMVC\\Views\\Emp\\Form2.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form2.cshtml",
-              "RelativeToolTip": "AppAspMVC\\Views\\Emp\\Form2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T16:29:59.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form1.cshtml",
-              "RelativeDocumentMoniker": "AppAspMVC\\Views\\Emp\\Form1.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Views\\Emp\\Form1.cshtml",
-              "RelativeToolTip": "AppAspMVC\\Views\\Emp\\Form1.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-26T16:29:40.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "AppAspMVC\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "AppAspMVC\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T16:05:29.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "QuestionController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Controllers\\QuestionController.cs",
-              "RelativeDocumentMoniker": "AppAspMVC\\Controllers\\QuestionController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Controllers\\QuestionController.cs",
-              "RelativeToolTip": "AppAspMVC\\Controllers\\QuestionController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T16:05:07.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AppAspMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AppAspMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T16:02:05.387Z",
+              "WhenOpened": "2024-02-27T17:42:53.146Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 200,
+          "DockedHeight": 337,
           "SelectedChildIndex": -1,
           "Children": [
             {

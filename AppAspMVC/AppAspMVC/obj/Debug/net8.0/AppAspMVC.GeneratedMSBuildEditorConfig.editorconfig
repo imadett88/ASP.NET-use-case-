@@ -1,75 +1,127 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppAspMVC
 build_property.RootNamespace = AppAspMVC
-build_property.ProjectDir = C:\Users\dell\source\repos\AppAspMVC\AppAspMVC\
+build_property.ProjectDir = C:\Users\dell\Desktop\AppAsp\AppAspMVC\AppAspMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\dell\source\repos\AppAspMVC\AppAspMVC
+build_property.MSBuildProjectDirectory = C:\Users\dell\Desktop\AppAsp\AppAspMVC\AppAspMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Emp/Form1.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Emp/Form1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEZvcm0xLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Emp/Form2.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Emp/Form2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEZvcm0yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Emp/Form3.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Emp/Form3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEZvcm0zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Emp/Form4.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Emp/Form4.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEZvcm00LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Emp/Form5.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Emp/Form5.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEZvcm01LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Emp/Form6.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Emp/Form6.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEZvcm02LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Emp/Form7.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Emp/Form7.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEZvcm03LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Home/Index.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Emp/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Emp/MyPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXE15UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Home/Privacy.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Shared/Error.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Shared/_EmpLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FbXBMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/_ViewImports.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/WebUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/WebUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/WebUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/WebUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/WebUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/_ViewStart.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/AppAspMVC/AppAspMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/dell/Desktop/AppAsp/AppAspMVC/AppAspMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9aa0n1aqwh

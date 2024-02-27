@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\AppAspMVC.csproj": {}
+    "C:\\Users\\dell\\Desktop\\AppAsp\\AppAspMVC\\AppAspMVC\\AppAspMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\AppAspMVC.csproj": {
+    "C:\\Users\\dell\\Desktop\\AppAsp\\AppAspMVC\\AppAspMVC\\AppAspMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\AppAspMVC.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\AppAsp\\AppAspMVC\\AppAspMVC\\AppAspMVC.csproj",
         "projectName": "AppAspMVC",
-        "projectPath": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\AppAspMVC.csproj",
+        "projectPath": "C:\\Users\\dell\\Desktop\\AppAsp\\AppAspMVC\\AppAspMVC\\AppAspMVC.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\source\\repos\\AppAspMVC\\AppAspMVC\\obj\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\AppAsp\\AppAspMVC\\AppAspMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,30 @@
             "Microsoft.AspNetCore.Session": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             }
           },
           "imports": [
